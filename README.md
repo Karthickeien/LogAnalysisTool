@@ -75,11 +75,5 @@ The CSV file contains three sections:
 - Error handling for malformed log entries
 - Memory-efficient processing for large log files
 
-
-
-
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Keywords
-`log analysis` `security monitoring` `python` `data analysis` `cybersecurity` `server logs` `brute force detection` `IP tracking` `web security` `monitoring tools` `threat detection` `log parsing` `security tools` `python security` `log analyzer`
